@@ -1,0 +1,102 @@
+.dog1-content{
+    font-family: 'Poppins', sans-serif;
+    width: 100%;
+    position: relative;
+    top: 62px;
+    display: flex;
+    justify-content: center;
+    background-color: rgba(241,248, 260, 0.5);
+    align-items: center;
+}
+
+.dog1-wrapper{
+    display: flex;
+    /* flex-direction: column; */
+    width: 60%;
+    flex-wrap: wrap;
+}
+
+.dogname{
+    text-transform: uppercase;
+    font-size: 50px;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+
+.afd{
+    border-radius: 8px;
+}
+
+.heading{
+    color: #E21D23;
+    margin-bottom: 15px;
+    font: 400 36px/40px "Baloo",cursive;
+}
+.characterstics{
+    width: 100%;
+}
+.adaptability-table{
+    background-color: white;
+    width: 80%;
+   
+}
+
+
+.more-info-tag1::before{
+    color: red;
+    margin-right: 12px;
+    content: "[+]";
+}
+
+.adpt-1{
+    display: flex;
+    cursor: pointer;
+}
+.more-info-tag2::before{
+    color: red;
+    margin-right: 12px;
+    content: "[+]";
+}
+
+.adpt-2{
+    display: flex;
+    cursor: pointer;
+}
+
+.more-info-tag3::before{
+    color: red;
+    margin-right: 12px;
+    content: "[+]";
+}
+
+.adpt-3{
+    display: flex;
+    cursor: pointer;
+}
+
+.more-info-tag4::before{
+    color: red;
+    margin-right: 12px;
+    content: "[+]";
+}
+
+.adpt-4{
+    display: flex;
+    cursor: pointer;
+}
+
+.more-info-tag5::before{
+    color: red;
+    margin-right: 12px;
+    content: "[+]";
+}
+
+.adpt-5{
+    display: flex;
+    cursor: pointer;
+}
+
+.star{
+    width: 20px;
+    height: 20px;
+}
